@@ -37,12 +37,12 @@ body
 #Lien4
 {
 	text-align: center;
-	align-content: auto;
+	align-content: center;
 	height: 260px;
 	width: 175px;
 	border-radius:10%;
-	margin-right: 3%;
-	margin-left: 3%;
+	margin-right: 2%;
+	margin-left: 4%;
 }
 
 #Lien3
